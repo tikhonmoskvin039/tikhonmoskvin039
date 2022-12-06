@@ -1,8 +1,6 @@
-### Hi there 👋
+#### Hello, I'm Tikhon Moskvin 👋
 
 
-
-Hello, I'm Tikhon Moskvin 👋
 A passionate frontend developer from Thailand, with russian roots
 coding
 
