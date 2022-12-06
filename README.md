@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 Hello, I'm Tikhon Moskvin 👋
 A passionate frontend developer from Thailand, with russian roots
@@ -21,4 +21,4 @@ mgorbadey
 
 Languages and Tools:
 html5 css3 javascript webpack react redux typescript nodejs express sass jest storybook postman postgresql mongodb git figma 
--->
+
