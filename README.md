@@ -6,7 +6,7 @@ coding
 
 🌱 I’m currently learning React & Redux
 
-📫 How to reach me: tikhonmoskvinbox@gmail.com || tihonmoskvin@mail.ru / Telegram @TihonMoskvin
+📫 How to reach me: tihonmoskvinbox@gmail.com || tihonmoskvin@mail.ru / Telegram @TihonMoskvin
 
 ⚡ Fun fact: I can tell you what geosteering means
 
