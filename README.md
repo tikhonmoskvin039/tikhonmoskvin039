@@ -26,5 +26,5 @@ coding
 
 <p><img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mgorbadey&" alt="mgorbadey" /></p>
 
-<div style="width: 300px, height: 300px">
-![english](https://user-images.githubusercontent.com/73397055/205955544-7a77918b-49a1-4385-ba5c-19cf0ce2a50d.png)</div>
+
+![english](https://user-images.githubusercontent.com/73397055/205955544-7a77918b-49a1-4385-ba5c-19cf0ce2a50d.png)
