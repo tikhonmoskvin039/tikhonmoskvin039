@@ -4,7 +4,7 @@
 A passionate frontend developer from Thailand, with russian roots
 coding
 
-🌱 I’m currently learning React & Redux
+🌱 I’m currently learning TypeScript & MobX
 
 📫 How to reach me: tihonmoskvinbox@gmail.com || tihonmoskvin@mail.ru / Telegram @TihonMoskvin
 
